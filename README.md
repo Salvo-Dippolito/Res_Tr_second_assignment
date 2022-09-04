@@ -122,6 +122,6 @@ After downloading this pre-built package, running this launch command from the t
 and all the nodes necessary to run this simulation af described in this readme file. 
 
 ```
-$ roslaunch second_assignment go.launch
+roslaunch second_assignment go.launch
 ```
 
